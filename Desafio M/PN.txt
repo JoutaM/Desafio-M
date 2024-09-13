@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Colégio Vida Nova - Página Inicial</title>
+</head>
+<body>
+    <header>
+        <h1>Colégio Vida Nova</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Início</a></li>
+            <li><a href="cadastro.html">Cadastro de Alunos</a></li>
+            <li><a href="lista.html">Lista de Alunos</a></li>
+            <li><a href="contato.html">Contato</a></li>
+        </ul>
+    </nav>
+
+    <section>
+        <h2>Bem-vindo ao Colégio Vida Nova!</h2>
+        <p>Transformando o futuro por meio da educação e preparando nossos alunos para os desafios do mundo.</p>
+    </section>
+
+    <footer>
+        <p>Endereço: Rua do Saber, 123 - Centro | Email: contato@vidanova.com.br | Telefone: (11) 9876-5432</p>
+    </footer>
+</body>
+</html>

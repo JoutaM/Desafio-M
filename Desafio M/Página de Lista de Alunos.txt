@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Colégio Vida Nova - Lista de Alunos</title>
+</head>
+<body>
+    <header>
+        <h1>Colégio Vida Nova - Lista de Alunos</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Início</a></li>
+            <li><a href="cadastro.html">Cadastro de Alunos</a></li>
+            <li><a href="lista.html">Lista de Alunos</a></li>
+            <li><a href="contato.html">Contato</a></li>
+        </ul>
+    </nav>
+
+    <section>
+        <h2>Lista de Alunos</h2>
+        <table>
+            <caption>Lista de Alunos</caption>
+            <thead>
+                <tr>
+                    <th>Nome</th>
+                    <th>Data de Nascimento</th>
+                    <th>Email</th>
+                    <th>Turma</th>
+                    <th>Gênero</th>
+                    <th>Preferências</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Lucas Oliveira</td>
+                    <td>12/05/2010</td>
+                    <td>lucas.oliveira@gmail.com</td>
+                    <td>A</td>
+                    <td>Masculino</td>
+                    <td>Esportes, Música</td>
+                </tr>
+                <tr>
+                    <td>Maria Silva</td>
+                    <td>24/08/2009</td>
+                    <td>maria.silva@hotmail.com</td>
+                    <td>B</td>
+                    <td>Feminino</td>
+                    <td>Arte</td>
+                </tr>
+                <tr>
+                    <td>João Souza</td>
+                    <td>15/10/2011</td>
+                    <td>joao.souza@yahoo.com</td>
+                    <td>C</td>
+                    <td>Masculino</td>
+                    <td>Esportes, Arte</td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+
+    <footer>
+        <p>Endereço: Rua do Saber, 123 - Centro | Email: contato@vidanova.com.br | Telefone: (11) 9876-5432</p>
+    </footer>
+</body>
+</html>
